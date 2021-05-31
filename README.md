@@ -57,7 +57,7 @@ To set up, you'll need to copy the `.env.example` to `.env` and modify to suit y
 By default, the environment is set up like this:
 
 ```
-API_KEY=26a350b2e541e3505ffac930d50b1c3a  # Administrative API key
+API_KEY=26a350b2e541e3505ffac930d50b1c3a  # Administrative API key - change this!
 ```
 
 **Set up Database**
