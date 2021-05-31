@@ -1,0 +1,21 @@
+{
+  "name": "federated-payment-protocol-expressjs",
+  "version": "1.0.0",
+  "description": "ExpressJs implementation of the Federated Crypto Payment Address API",
+  "main": "app.js",
+  "scripts": {
+    "setup": "node initialize.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "backupbrain@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.2",
+    "sqlite3": "^5.0.2"
+  }
+}
